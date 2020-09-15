@@ -3,3 +3,6 @@ This repo will contain my implementaion of all the 16 projects mentioned in [thi
 
 I'll use React for all of the projects, no styling libraries. I may use Redux for any stateful components, just for learning.
 
+## Projects
+
+1. [Single price grid component](https://github.com/YashKandalkar/Single-price-grid-component)
