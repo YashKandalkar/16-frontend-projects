@@ -5,4 +5,6 @@ I'll use React for all of the projects, no styling libraries. I may use Redux fo
 
 ## Projects
 
-1. [Single price grid component](https://github.com/YashKandalkar/Single-price-grid-component)
+1. Single price grid component
+    - [GitHub repo](https://github.com/YashKandalkar/Single-price-grid-component)
+    - [Website (GitHub Pages)](https://yashkandalkar.github.io/Single-price-grid-component/)
