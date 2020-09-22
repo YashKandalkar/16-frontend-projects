@@ -11,3 +11,6 @@ I'll use React for all of the projects, no styling libraries. I may use Redux fo
 2. Four card feature section
     - [GitHub repo](https://github.com/YashKandalkar/Four-card-feature-section)
     - [Website (GitHub Pages)](https://yashkandalkar.github.io/Four-card-feature-section/)
+3. Huddle landing page
+    - [GitHub repo](https://github.com/YashKandalkar/Huddle-landing-page)
+    - [Website (GitHub Pages)](https://yashkandalkar.github.io/Huddle-landing-page/)
